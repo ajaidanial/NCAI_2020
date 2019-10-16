@@ -1,7 +1,7 @@
 <section id="footer" class="section-padding">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-sm-6 col-md-12">
+			<div class="col-lg-6 col-md-12">
 				<div class="footer-widget footer-link">
 					<h4>
 						National Conference on<br />
@@ -13,7 +13,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-3 col-sm-6 col-md-6">
+			<div class="col-lg-3 col-md-12">
 				<div class="footer-widget footer-link">
 					<h4>Quick Links</h4>
 					<ul>
@@ -26,14 +26,14 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-lg-3 col-sm-6 col-md-6">
+			<div class="col-lg-3 col-md-12">
 				<div class="footer-widget footer-text">
 					<h4>Contact Us</h4>
-					<p class="mail"><span>Mail: </span> promdise@gmail.com</p>
-					<p><span>Phone: </span>+202-277-3894</p>
+					<p class="mail"><span>Mail: </span>{{ site.email }}</p>
+					<p><span>Phone: </span>{{ site.phone }}</p>
+					<p><span>Mobile: </span>{{ site.mobile }}</p>
 					<p>
-						<span>Location: </span> 455 West Orchard Street Kings Mountain, NC
-						28086,NOC building
+						<span>Location: </span> {{ site.address }}
 					</p>
 				</div>
 			</div>

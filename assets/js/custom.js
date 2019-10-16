@@ -3,25 +3,25 @@
 
 
     /* ==========================================================================
-      COUNTER UP 
+      COUNTER UP
  ========================================================================== */
 
-    $('.counter').counterUp({
-        delay: 10,
-        time: 1000
-    });
+    // $('.counter').counterUp({
+    //     delay: 10,
+    //     time: 1000
+    // });
 
     $('.carousel').carousel({
       interval: 8000,
     })
-    
+
     /* Closes the Responsive Menu on Menu Item Click*/
     $('.navbar-collapse .navbar-nav a').on('click', function () {
         $('.navbar-toggler:visible').click();
     });
     /*END MENU JS*/
 
-    
+
     /* ----------------------------------------------------------- */
     /*  Fixed header
     /* ----------------------------------------------------------- */
@@ -81,8 +81,8 @@ new WOW().init();
               map: map
             });
           }
-          google.maps.event.addDomListener(window, 'load', initialize);	
-          /*END GOOGLE MAP*/	
+          google.maps.event.addDomListener(window, 'load', initialize);
+          /*END GOOGLE MAP*/
 
 
 })(window.jQuery);
