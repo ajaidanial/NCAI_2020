@@ -3,21 +3,34 @@ layout: default
 permalink: /contact
 ---
 
-<!--MAIN BANNER AREA START -->
-<div class="banner-area banner-3">
-	<div class="overlay dark-overlay"></div>
-	<div class="d-table">
-		<div class="d-table-cell">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
-						<div class="banner-content content-padding">
-							<h1 class="banner-title">Contact</h1>
-						</div>
-					</div>
+<!--  Contact START  -->
+<section class="section-padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-sm-12 col-md-12">
+				<div class="mb-5">
+					<h2 class="mb-2">Get in touch</h2>
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-lg-7 col-sm-12">
+				<iframe id="gmap_canvas"
+					src="https://maps.google.com/maps?q=hindustan%20institure%20of%20technology&t=&z=15&ie=UTF8&iwloc=&output=embed"
+					frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+			</div>
+
+			<div class="col-lg-5 pl-4 mt-4 mt-lg-0">
+				<h4>Address</h4>
+				<p class="mb-3">{{ site.address }}</p>
+				<h4>Mobile Number</h4>
+				<p class="mb-3">{{ site.mobile }}</p>
+				<h4>Phone Number</h4>
+				<p class="mb-3">{{ site.phone }}</p>
+				<h4>Contact Email</h4>
+				<p>{{ site.email }}</p>
+			</div>
+		</div>
 	</div>
-</div>
-<!--MAIN HEADER AREA END -->
+</section>
+<!--  CONTACT END  -->
