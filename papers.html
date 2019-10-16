@@ -12,14 +12,14 @@ permalink: /papers
 				<p class="mb-4">Authors are invited to submit original research papers for
 					presentation in the following topics, but are not limited to:</p>
 
-				{% for topic in site.data.papers.topics %}
 				<ul class="about-list2 my-4">
+					{% for topic in site.data.papers.topics %}
 					<li class="mb-2">
 						<i class="icofont icofont-check-circled"></i>
 						{{ topic }}
 					</li>
+					{% endfor %}
 				</ul>
-				{% endfor %}
 
 			</div>
 

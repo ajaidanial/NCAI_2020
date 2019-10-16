@@ -1,0 +1,54 @@
+[{
+		"name": "CHIEF PATRONS",
+		"people": [
+
+			"Dr.Elizabeth Verghese, Chancellor, HITS",
+			"Dr.Ananad Jacob Verghese, Pro Chancellor, HITS",
+			"Mr.Ashok Verghese, Director, HITS",
+			"Dr.Aby Sam, Director, Hindustan University"
+		]
+	},
+	{
+		"name": "PATRONS",
+		"people": [
+			"Dr.Kuncheria P. Isaac, Vice Chancellor, HITS",
+			"Dr.Pon Ramalingam, Registrar, HITS",
+			"Dr.N.Vasudevan, Dean (Engineering &amp;Technology), HITS"
+		]
+	},
+	{
+		"name": "ADVISORS",
+		"people": [
+			"Dr.K.M.Mehata, Senior Professor, SCS, HITS"
+		]
+	},
+	{
+		"name": "TECHNICAL ADVISORY COMMITEE",
+		"people": [
+			"Dr.Banshidhar Majhi, Professor, IIITDM, Kancheepuram",
+			"Dr.S.Chitra Kala, Professor, Anna University",
+			"Dr.K.Sathya Murthy, Associate Professor, Pondicherry Engineering College",
+			"Dr.B.Sivaselvan, Assistant Professor, IIITDM,Kancheepuram",
+			"Dr.Chandrasekaran K,Professor, National Institute of Technology, Karnataka.",
+			"Dr.A.Kannan,Professor, Vellore Institute of Technology, Vellore",
+			"Dr.S.Janakimeena, Professor, Vellore Institute of Technology, Chennai"
+		]
+	},
+	{
+		"name": "CONVENORS",
+		"people": [
+			"Dr.Rajeswari Mukesh, HOD (SCS), HITS",
+			"Dr.P.Selvi Rajendran, Professor, CSE"
+		]
+	},
+	{
+		"name": "COORDINATORS",
+		"people": [
+			"D.John Aravindhar, Professor, CSE",
+			"Dr.K.Poonkavithai, Associate Professor, CSE",
+			"Dr.K.Padmaveni, Associate Professor, CSE",
+			"Ms.Linda Joseph, Assistant Professor, CSE",
+			"Ms.A.Thamarai Selvi, Assistant Professor, CSE"
+		]
+	}
+]
