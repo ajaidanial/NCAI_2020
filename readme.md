@@ -1,6 +1,6 @@
 # NCAI-2020
 
-A site built for a conference. This site is built using [jekyll](jekyllrb.com) and runs on [netlify](netlify.com).
+A site built for a conference. This site is built using [jekyll](https://jekyllrb.com) and runs on [netlify](https://netlify.com).
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ Would recommend the following to be installed and used for proper code maintaina
 
 ## Project Structure
 
-The site follows the normal site structure as mentioned in the jekyll documentation [here](jekyllrb.com/docs/structure/).
+The site follows the normal site structure as mentioned in the jekyll documentation [here](https://jekyllrb.com/docs/structure/).
 
 ### File and Folder Descriptions
 
