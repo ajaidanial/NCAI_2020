@@ -46,7 +46,7 @@ Would recommend the following to be installed and used for proper code maintaina
    `git add .` \
    `git commit -m "<commit_message>"` \
    `git push origin <branch_name>`
-5. Create a merge request from your account.
+5. Create a `Merge Request` or `Pull Request` from your `branch_name` to the `master` branch from your account.
 
 ## Project Structure
 
