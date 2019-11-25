@@ -7,23 +7,46 @@ permalink: /papers
 <section class="section-padding">
 	<div class="container">
 		<div class="row align-items-center">
-			<div class="col-lg-6 col-sm-12 col-md-8 mb-4">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
 				<h3 class="mb-3">Call For Papers</h3>
-				<p class="mb-4">Authors are invited to submit original research papers for
-					presentation in the following topics, but are not limited to:</p>
+				<p class="mb-4">
+					The authors are invited to send their papers in IEEE format to
+					ncartificialintelligence2020@gmail.com.All the Accepted papers will be published in Proceedings and
+					extended manuscripts will be published in SCOPUS indexing Journal with additional cost based on the
+					Scope of the Paper with the relevance of Journal based on Authors concerns and requirements. All the
+					selected papers will be published in HITS journal/Proceedings.
+				</p>
 
-				<ul class="about-list2 my-4">
+				<!-- <ul class="about-list2 my-4">
 					{% for topic in site.data.papers.topics %}
 					<li class="mb-2">
 						<i class="icofont icofont-check-circled"></i>
 						{{ topic }}
 					</li>
 					{% endfor %}
-				</ul>
+				</ul> -->
+
+				<div class="row">
+					{% for data in site.data.papers %}
+					<div class="col-lg-6 col-sm-12 col-md-6">
+						<div class="intro-box">
+							<h4>{{ data.name }}</h4>
+							<ul class="about-list2 my-4">
+								{% for name in data.people %}
+								<li class="mb-2">
+									<i class="icofont icofont-check-circled"></i>
+									{{ name }}
+								</li>
+								{% endfor %}
+							</ul>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
 
 			</div>
 
-			<div class="col-lg-6 col-md-4">
+			<div class="col-sm-12 d-md-none">
 				<img src="assets/img/about/about-4.jpg" alt="" class="img-fluid w-100">
 			</div>
 		</div>

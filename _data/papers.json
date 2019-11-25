@@ -1,14 +1,61 @@
-{
-	"topics": [
-		"Threat Intelligence, Chatbot",
-		"Natural language processing, deep learning",
-		"Machine Learning, Speech Recognition",
-		"AI in Finanace,Healthcare, Retail,Supply Chain,Insurance",
-		"statistical learning and neural net based learning",
-		"Bayesian Models and Methods",
-		"Disease Identification and Diagnosis",
-		"Epidemic Outbreak Prediction",
-		"Upsell and Cross-Channel Marketing",
-		"Contact Centres Analytics"
-	]
-}
+[{
+		"name": "Artificial Intelligence Tools and Application",
+		"people": [
+			"Neural Networks",
+			"Fuzzy Systems",
+			"Natural Language Processing",
+			"Social Implication of Artificial Intelligence"
+		]
+	},
+	{
+		"name": "Multimedia and Cognitive Informatics",
+		"people": [
+			"Image Processing",
+			"Computer Graphics",
+			"Drones Design",
+			"Robotics and Vision",
+			"Autonomous Computing",
+			"Human Computer Collaboration"
+		]
+	},
+	{
+		"name": "Pattern Recognition and Machine learning",
+		"people": [
+			"Human Behaviour Recognition",
+			"Feature Selection",
+			"Semi Supervised Learning",
+			"Fuzzy System",
+			"Speech Recognition"
+		]
+	},
+	{
+		"name": "Ethics in Information System",
+		"people": [
+			"Social Network Analysis",
+			"Information Security",
+			"Sequential Pattern Mining",
+			"Spatial Mining",
+			"Sentiment Analysis"
+		]
+	},
+	{
+		"name": "Data Analytics and Business Intelligence",
+		"people": [
+			"Classification",
+			"Clustering",
+			"Regression",
+			"Feature Selection",
+			"Intelligent System"
+		]
+	},
+	{
+		"name": "Smart System Development",
+		"people": [
+			"Internet of Things",
+			"Android Applications",
+			"Mobile Applications",
+			"Web Designing",
+			"Intelligent Automation"
+		]
+	}
+]
