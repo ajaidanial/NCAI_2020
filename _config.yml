@@ -1,51 +1,49 @@
-title: IAAML-2020
-big_title: Innovative Application of AI and Machine Learning
-email: nciaaml2020@gmaiI.com
+title: NCAI-2020
+big_title: National Conference On Artificial Intelligence
+email: ncartificialintelligence2020@gmaiI.com
 date: 27<sup>th</sup> - 28<sup>th</sup>, February, 2020
 date1: 6<sup>th</sup> Feb 2019
 date2: 15<sup>th</sup> Feb 2019
 date3: 25<sup>th</sup> Feb 2019
 fee1: 1500
-fee2: 2000
+fee2: 1750
+fee3: 2000
 phone: 044-2747426
 mobile: +91 8637635755
 keywords: conference
-address: The Convenor, NCIAAML 2020, Department of Computer Science and Engineering, Hindustan Institute of Technology and Science, Rajiv Gandhi Salai (OMR), Padur, Chennai 603 103.
-description: >- # this means to ignore newlines until "baseurl:"
-  The prime objective of the conference is to bring together
-  academicians, researchers, industrialists, scientists, entrepreneurs,
-  faculty and students to share their knowledge in cutting edge
-  technologies, innovations and recent trends in the field of intelligent
-  information systems. It gives a platform to showcase their theoretical
-  concepts, systems architecture.
-about_hits: >- # this means to ignore newlines until "baseurl:"
-  Hindustan Institute of Technology &amp;Science is a leading private
-  University in Chennai completed 25 years of dedicated service to the
-  Nation.The University offers 22 U.G.,32 P.G Programmes in
-  Engineering,Technology, Management and Architecture including
-  Ph.D., M.S. (By Research) and M.Phil. Courses in several disciplines.
-  <br />
-  In recognition of the highly commendable and professional academic
-  credentials of the faculty, excellent, infrastructure, remarkably
-  consistent placement record, innovative &amp;cutting edge research
-  activities and most coveted cosmopolitan ethos of the Institution, the
-  University Grants Commission under Department of Higher
-  Education, Ministry of Human Resource Development, and
-  Government of India conferred the Deemed University status in 2008.
-about_cse: >- # this means to ignore newlines until "baseurl:"
-  The Department will aim to equip the students with the ability and
-  skills to analyze, design and develop computer systems and their
-  applications, with a curriculum that has a balanced emphasis on
-  theory, practical and projects. The department is accredited by Nation
-  Board of Accreditation (NBA) for the period of 3 years. The
-  department has MoUs with leading IT Industries like NVIDIA, IBM
-  and Dell-EMC. The department conducts subjects with more of
-  hands-on sessions and encourages students to take up MOOC based
-  online courses in NPTEL, IITBombayX, Coursera, Udacity and
-  edX..The school conducts various activities under the banner of
-  various professional bodies like IEEE, ACM, CSI, IET etc. The
-  Students Association has hosted several symposiums, seminars and
-  guest lecture from eminent organizations.
+address: The Convenor, NCAI 2020, Department of Computer Science and Engineering, Hindustan Institute of Technology and Science, Rajiv Gandhi Salai (OMR), Padur, Chennai 603 103.
+description: >-
+    The primary objective of the conference is to bring together academicians,
+    researchers, industrialists, scientists, entrepreneurs, faculty and students
+    to share their knowledge in cutting edge technologies, innovations and recent
+    trends in the field of intelligent information systems. It provides a platform
+    to showcase their research interest in Artificial Intelligence.
+about_hits: >-
+    Hindustan Institute of Technology &Science is a leading private University
+    in Chennai completed 25 years of dedicated service to the Nation.The University
+    offers 22 U.G.,32 P.G Programmes in Engineering,Technology, Management and
+    Architecture including Ph.D., M.S. (By Research) and M.Phil. Courses in several disciplines.
+    <br />
+    In recognition of the highly commendable and professional academic credentials
+    of the faculty, excellent, infrastructure, remarkably consistent placement record,
+    innovative &cutting edge research activities and most coveted cosmopolitan
+    ethos of the Institution, the University Grants Commission under
+    Department of Higher Education, Ministry of Human Resource
+    Development, and Government of India conferred the Deemed University status in 2008.
+about_cse: >-
+    The Department will aim to equip the students with
+    the ability and skills to analyze, design and develop
+    computer systems and their applications, with a curriculum
+    that has a balanced emphasis on theory, practical and projects.
+    The department is accredited by Nation Board of Accreditation (NBA)
+    for the period of 3 years. The department has MoUs with leading IT
+    Industries like NVIDIA, IBM and Dell-EMC. The department conducts
+    subjects with more of hands-on sessions and encourages students to
+    take up MOOC based online courses in NPTEL, IITBombayX, Coursera,
+    Udacity and edX..The school conducts various activities under the
+    banner of various professional bodies like IEEE, ACM, CSI, IET etc.
+    The Students Association has hosted several symposiums, seminars
+    and guest lecture from eminent organizations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -54,4 +52,4 @@ github_username: jekyll
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+    - jekyll-feed
