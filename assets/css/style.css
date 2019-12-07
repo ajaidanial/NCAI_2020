@@ -631,6 +631,11 @@ h5.subtitle {
 	position: relative;
 }
 
+.banner-overall-class {
+	-webkit-background-size: cover;
+	background-size: cover;
+	position: relative;
+}
 
 .section-heading h2 {
 	margin-bottom: 20px;
@@ -714,7 +719,7 @@ h5.subtitle {
 	position: absolute;
 	right: 0px;
 	content: "";
-	background: url("../img/banner/1.jpg") 50% 50%;
+	background: url("../img/about/about-1.jpg") 50% 50%;
 	width: 40%;
 	height: 100%;
 	max-height: 560px;
