@@ -176,6 +176,22 @@ h5.subtitle {
 	text-transform: capitalize
 }
 
+.section-sub-title {
+	font-size: 20px;
+	line-height: 38px;
+	margin-bottom: 15px;
+	text-transform: capitalize
+}
+
+.color-purple {
+	color: #635CDB;
+}
+
+.bold {
+	font-weight: bold;
+	color: #232323;
+}
+
 .section-title span {
 	color: #635CDB;
 }
@@ -719,7 +735,8 @@ h5.subtitle {
 	position: absolute;
 	right: 0px;
 	content: "";
-	background: url("../img/about/about-1.jpg") 50% 50%;
+	background: url("../img/about/about-1.jpg") 50% 50% no-repeat;
+	background-size: cover;
 	width: 40%;
 	height: 100%;
 	max-height: 560px;
