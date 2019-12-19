@@ -782,7 +782,7 @@ h5.subtitle {
   SERVICE AREA SECTION
 ----------------------*/
 .page-banner-area.page-service {
-	background: url("../img/bg/bg-2.jpg") no-repeat;
+	background: url("../img/bg-2.jpg") no-repeat;
 	background-size: cover;
 }
 
@@ -1181,7 +1181,7 @@ input[type=email] {
 #footer {
 	padding-bottom: 60px;
 	position: relative;
-	background: url("../img/bg/2.png");
+	background: url("../img/bg1.png");
 	border-top: 1px solid#eee;
 }
 
@@ -1327,7 +1327,7 @@ HISTORY MISSION
 
 ==============================*/
 #section-strategy {
-	background: url("../img/bg/bg-1.jpg") 50% 50% no-repeat;
+	background: url("../img/bg-1.jpg") 50% 50% no-repeat;
 	background-size: cover;
 }
 
@@ -1396,7 +1396,7 @@ SERVICE PAGE
 }
 
 .service-style-two {
-	background: url("../img/bg/bg-2.jpg") no-repeat;
+	background: url("../img/bg-2.jpg") no-repeat;
 	background-size: cover;
 	position: relative;
 }
